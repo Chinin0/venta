@@ -28,7 +28,7 @@
                             <h3 class="section-title-3 pb-0">MISIÓN</h3>
                         </div>
                         <div class="desc-content">
-                            <p>Satisfacer con excelencia a nuestros clientes a través de bebidas de jugo naturales elaboradas 100% con fruta y generar bienestar en la salud.</p>
+                            <p>Proveer del mejor equipamiento a la sociedad boliviana.</p>
                         </div>
                         
                     </div>
@@ -65,7 +65,7 @@
                             <h3 class="section-title-3 pb-0">VISION</h3>
                         </div>
                         <div class="desc-content">
-                            <p>Ser la Empresa número 1 y líder en Bolivia, reconocida por la calidad, excelencia operativa y continua innovación, siempre impulsada por el talento de nuestros trabajadores, guiada por el modelo de un negocio que comparte el riesgo y la rentabilidad.</p>
+                            <p>Ser punta de lanza en empresas de ventas de equipamiento informatico.</p>
                         </div>
                         
                     </div>

@@ -33,7 +33,7 @@
                             </div>
                             <div class="con-info-txt">
                                 <h4>Nuestra ubicacion</h4>
-                                <p>Km 14.5 Carretera a Cotoca, lado Surtidor Tarope, Cotoca, Bolivia, 591</p>
+                                <p>Doble vía La Guardia 5265, Santa Cruz de la Sierra, Bolivia</p>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                             </div>
                             <div class="con-info-txt">
                                 <h4>Contacta con nosotros en cualquier momento</h4>
-                                <p>Celular: 60094000</p>
+                                <p>Celular: 72649376</p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             </div>
                             <div class="con-info-txt">
                                 <h4>Correo</h4>
-                                <p>info@jugosbolivianos.com.bo</p>
+                                <p>ventas@globalip.store</p>
                             </div>
                         </div>
                     </div>
